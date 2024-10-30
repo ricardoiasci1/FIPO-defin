@@ -1,0 +1,54 @@
+main {
+    margin: auto;
+    padding: 0;
+    max-width: 1024px;
+    font-size: 20px;
+}
+
+header{
+    background-color: #ff0000d0;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+footer{
+
+    background-color: #ff0000d0;
+    color:#fff;
+    padding: 20px;
+    text-align: center;
+}
+footer p{
+    color: #fff;
+}
+
+
+
+h1, h2 ,h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p, label, input, select {
+    margin-bottom: 20px;
+    line-height: 1.8rem;
+    color: #000;
+}
+
+section {
+    margin: 20px auto;
+    padding: 20px;
+}
+header img{
+    display:inline-flex;
+    width: 15%;
+    height: auto;
+    text-align:;
+}
+
+article img{
+    display: block;
+    width: 85%;
+    height: auto;
+}
