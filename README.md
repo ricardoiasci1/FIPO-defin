@@ -1,2 +1,0 @@
-# FIPO-defin
- trabajo Fipo
